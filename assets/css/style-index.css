@@ -245,7 +245,7 @@ nav{
 #heading-presentation{
     display: flex;
     position: relative;
-    height: 400px;
+    height: 450px;
     width: 400vw;
     margin: 0px 50px;
     left : calc(-93vw - 37.5px);
@@ -260,7 +260,7 @@ nav{
     white-space: pre-line;
     display: flex;
     width: 93vw;
-    height: 400px;
+    height: 450px;
     margin: 0px 25px 0px 0px;
     background-repeat: no-repeat;
     background-position: right;
