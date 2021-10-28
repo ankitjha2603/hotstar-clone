@@ -273,7 +273,7 @@ nav{
     width: 65%;
     height: auto;
     display: flex;
-    background: linear-gradient(90deg, rgba(3, 11, 23, 1) 59%,rgba(3, 11, 23, 1) 55%, rgba(255, 255, 255, 0) 100%);
+    background: linear-gradient(90deg, rgba(3, 11, 23, 1) 55%, rgba(255, 255, 255, 0) 100%);
 }
 .card .content {
     margin-top: 60px;
@@ -302,7 +302,7 @@ nav{
 }
 .about span{
     white-space: nowrap;
-    margin: 5px 5px;
+    margin: 5px 5px 5px 0px;
 }
 .after::after{
     content: "•";
