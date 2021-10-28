@@ -270,10 +270,10 @@ nav{
     background-size: 60% 100%;
 }
 .card .info {
-    width: 65%;
+    width: 67%;
     height: auto;
     display: flex;
-    background: linear-gradient(90deg, rgba(3, 11, 23, 1) 55%, rgba(255, 255, 255, 0) 100%);
+    background: linear-gradient(90deg, rgba(3, 11, 23, 1) 60%, rgba(255, 255, 255, 0) 100%);
 }
 .card .content {
     margin-top: 60px;
