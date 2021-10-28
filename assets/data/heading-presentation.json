@@ -1,0 +1,44 @@
+{
+    "0":{
+        "name":"Black Widow",
+        "about":["2 hr 13 min","2021","Superhero","U/A 13+"],
+        "description":"Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+        "image-url":"black-widow"
+    },
+    "1":{
+        "name":"Iron Man 3",
+        "about":["2 hr 10 min","2013","Superhero","U/A 13+"],
+        "description":"Tony Stark encounters a formidable foe called the Mandarin, and after failing to him, he embarks on a journey with relentless consequences.",
+        "image-url":"iron-man-3"
+    },
+    "2":{
+        "name":"Avengers: Endgame",
+        "about":["3 hr 1 min","2019","Superhero","U/A 13+"],
+        "description":"After the devastating events of the Infinity War, the Avengers assemble once more to reverse Thanos’ actions and restore balance to the universe.",
+        "image-url":"avengers-endgame"
+    },
+    "3":{
+        "name":"Sanak",
+        "about":["Hindi","Action","2021"],
+        "description":"Trapped in a hostage crisis inside a hospital, Vivaan will move mountains for his wife, Anshika. But will they survive this race against time?",
+        "image-url":"sanak"
+    },
+    "4":{
+        "name":"Free Guy",
+        "about":["1 hr 54 min","2021","Action","U/A 13+"],
+        "description":"Guy, a bank teller, discovers he is a background player in an open-world video game and decides to become the hero of his own story.",
+        "image-url":"free-guy"
+    },
+    "5":{
+        "name":"Captain America: Civil War",
+        "about":["2 hr 21 min","2016","Superhero","U/A 13+"],
+        "description":"The government's decision to push a Hero Registration Act to regulate heroes creates a rift among the Avengers and other heroes. Watch Captain America: Civil War - English Superhero movie on Disney+ Hotstar VIP now.",
+        "image-url":"captain-america-civil-war"
+    },
+    "6":{
+        "name":"The Empire",
+        "about":["Hotstar Specials","Drama"],
+        "description":"In the midst of scheming courtiers, ministers and a dead king, 14-year-old Babur steps up to his destiny and leaves an indelible mark on history.",
+        "image-url":"the-empire"
+    }
+}
